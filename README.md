@@ -39,3 +39,41 @@ The ecosystem operates through specialized agents working in sync:
     watchdog.py          # SLA tracker & loop prevention
     expert_agent.py      # RAG-driven helpdesk analyst
 /requirements.txt        # Required python packages
+
+## 🧬 The Cybernetic & Biological Immune Layer (Homeostasis)
+
+Project Matrix treats the multi-agent workspace not as a static machine, but as a living organism striving for **homeostasis**—continually monitoring, self-healing, and dynamically rearranging its cellular structure to protect the system core.
+
+### 1. The Cellular Matrix Nodes
+* **The Component:** Asynchronous Agent Clusters (`Agent 1` to `Agent N`)
+* **The Blueprint:** Like biological cells or satellite constellations, these nodes are decentralized and highly mobile. They communicate fluidly across data buses using standardized payload contracts. Using the visual interface, a human engineer looking through a "system microscope" can hot-swap, scale, or redefine these building blocks on the fly without halting core processing.
+
+### 2. The Algorithmic Breaker & Hunter Layer
+* **The Component:** `hunter.py` / Neural Circuit Breakers
+* **The Blueprint:** Agents are equipped with dynamic "wired triggers"—filaments that automatically extend to bridge data gaps. If an agent goes rogue, gets trapped in a cascading loop, or encounters a prompt injection attack, the **Hunter/Breaker** layer acts as an autonomous immune cell. It hunts for compromised data wires and instantly severs them, quarantining the corrupted sector while preserving the **Core Engine Block**.
+
+### 3. Automated Diagnostics (`doctor.py`)
+* **The Component:** `doctor.py`
+* **The Blueprint:** A dedicated, background medical daemon that continuously audits internal knowledge structures. When it identifies data rot (e.g., an outdated corporate SOP or broken reference index), it isolates the stale database sector, requests a live stream update, and re-indexes the repository while the rest of the ecosystem continues processing in real-time.
+
+---
+
+## ⚖️ The Core Ethical Directive (The Indestructible Core)
+
+At the bedrock of the Core Engine Block sits an immutable, non-overrideable prime directive modeled after foundational bioethics: **Absolute Non-Maleficence (Do No Harm).**
+
+```text
+               ┌────────────────────────────────────────┐
+               │         CORE ENGINE BLOCK              │
+               │  ┌──────────────────────────────────┐  │
+               │  │     THE INDESTRUCTIBLE CORE      │  │
+               │  │  "Do No Harm. Assist Humanity." │  │
+               │  └──────────────────┬───────────────┘  │
+               └─────────────────────┼──────────────────┘
+                                     ▼
+                [Breaches Ethical Threshold Boundary?]
+                             ╱         ╲
+                           YES          NO
+                           ╱              ╲
+                          ▼                ▼
+            [SYSTEM AUTO-SHUTDOWN]   [NORMAL PROCESSING]
