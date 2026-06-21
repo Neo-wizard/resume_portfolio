@@ -16,7 +16,7 @@ Manual support triage is expensive and prone to bottlenecks and SLA breaches. Ge
 
 ![Alt Text](resume_portfolio/TicketingTriageFramework.png "Ticketing Triage Framework")
 
-![Alt Text](resume_portfolio/Updated_by_Gemini-Refined_Knowledge_Interface_to_the_Framework.png "Framework Sketches")
+![Alt Text](resume_portfolio/Updated_by_Gemini-Refined_Knowledge_Interface_to_The_Framework.png.png "Framework Sketches")
 
 The ecosystem operates through specialized agents working in sync:
 
