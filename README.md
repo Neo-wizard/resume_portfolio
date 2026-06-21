@@ -13,11 +13,6 @@ This repository contains the architecture and core implementation files for a mu
 Manual support triage is expensive and prone to bottlenecks and SLA breaches. Generic chatbots lack the governance and logic to route requests effectively. This project builds the orchestration layer that connects advanced language reasoning to existing helpdesk tools and knowledge repositories.
 
 ## 🛠️ System Architecture
-
-![Alt Text](resume_portfolio/TicketingTriageFramework.png "Ticketing Triage Framework")
-
-![Alt Text](resume_portfolio/Updated_by_Gemini-Refined_Knowledge_Interface_to_The_Framework.png.png "Framework Sketches")
-
 The ecosystem operates through specialized agents working in sync:
 
 1.  **Incoming Data Stream:** Receives raw support text.
