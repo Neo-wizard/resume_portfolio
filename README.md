@@ -14,7 +14,7 @@ Manual support triage is expensive and prone to bottlenecks and SLA breaches. Ge
 
 ## 🛠️ System Architecture
 
-![Alt Text](Ticketing Triage Framework.jpg "Framework Sketches")
+![Alt Text](Ticketing Triage Framework.png "Ticketing Triage Framework")
 
 ![Alt Text](Ticketing Triage Framework.jpg "Framework Sketches")
 
